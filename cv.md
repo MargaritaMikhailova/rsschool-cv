@@ -45,6 +45,6 @@
 * Intensive course on frontend develop (Weblime, Tolyatti);
 
 ## English:
-Pre-intermedia. A2. 
+Pre-intermedia. A2 
 
 *(I practice with my foreign colleagues every day.)*
