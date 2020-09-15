@@ -1,0 +1,25 @@
+/* GLOBAL */
+
+
+
+.photo {
+height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+.picture{
+    margin: 0 
+    width: 200px; height: 200px; 
+   border-radius: 50%; 
+   background: no-repeat -70px 0; 
+}
+
+section{
+    max-width: 1024px;
+    margin: auto;
+    padding: 10px;
+    border: solid 8px;
+    border-color: grey;
+
+/* profile end */
